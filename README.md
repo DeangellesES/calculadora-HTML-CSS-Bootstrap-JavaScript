@@ -20,6 +20,7 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>CSS e JavaScript no própio arquivo HTML no style e script</li>
+  <li>Manupulação do DOM com JavaScript</li>
   <li>CSS inline</li>
   <li>Bootstrap para estilizar</li>
 </ul>
