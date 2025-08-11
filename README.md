@@ -23,5 +23,6 @@
   <li>Manupulação do DOM com JavaScript</li>
   <li>CSS inline</li>
   <li>Bootstrap para estilizar</li>
+  <li>onclick="" na tag para chamar a função</li>
   <li>Paradigma de Programação Estruturado</li>
 </ul>
