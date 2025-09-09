@@ -12,7 +12,7 @@
   <li><b>JavaScript</b></li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Efetuar Cálculos</li>
 </ul>
